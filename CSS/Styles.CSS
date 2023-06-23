@@ -1,0 +1,28 @@
+H1 {
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+
+p1 {
+    color: white;
+}
+
+table, th, td {
+    border:1px solid black;
+}
+table{
+    margin-left: 25%;
+    margin-right: 25%;
+    
+}
+
+body{
+   background-color: #b04759;
+}
+
+form{
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+}
